@@ -1,4 +1,5 @@
 import http from 'http';
+import data from './data.js';
 import { Server } from 'socket.io';
 import express from 'express';
 import mongoose from 'mongoose';
